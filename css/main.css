@@ -1,0 +1,12 @@
+html, body, #container {
+    width: 95%;
+    height: 95%;
+    margin: 0;
+    padding: 0;
+}
+
+p, #container {
+    border-style: inset;
+    border-color: coral;
+    border-width: 7px;
+}
